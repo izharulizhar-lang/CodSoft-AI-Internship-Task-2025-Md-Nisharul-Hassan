@@ -1,5 +1,5 @@
 # CodSoft Internship Task 4: Final Professional Recommendation System
-# By Izharul Hassan (BCA, CU)
+# By Md Nisharul Hassan (B.TECH CSE AI/ML,NOIDA INTERNATIONAL UNIVERSITY)
 import random
 
 profiles = {
@@ -81,3 +81,4 @@ def main():
     print("🟦 Powered by CodSoft | Coded by Izharul Hassan 💙")
 
 main()
+
