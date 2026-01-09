@@ -1,9 +1,9 @@
 # CodSoft AI Internship Tasks 🚀
 
-**Author:** Izharul Hassan  
-**Program:** BCA, Chandigarh University  
-**Year:** 2025  
-**Contact:** [LinkedIn](https://www.linkedin.com/in/izharul-hassan-47b02b386) | izharulizhar@gmail.com
+**Author:** MD NISHARUL HASSAN 
+**Program:** B.TECH CSE NOIDA INTERNATIONAL UNIVERSITY 
+**Year:** 2024 
+**Contact:** [LinkedIn](https://www.linkedin.com/in/md-nisharul-hassan-256656380) | nisharulnishar123@gmail.com
 
 ---
 
